@@ -1,2 +1,0 @@
-# cattle-Identification
-cattle-Identification
